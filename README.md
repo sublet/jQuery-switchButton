@@ -16,8 +16,11 @@ Check out the demo page here: http://olance.github.io/jQuery-switchButton/
 Dependencies
 ------------
 
-This is a jQuery UI plugin, so you'll need jQuery and jQuery UI.
+This is a jQuery UI plugin, so you'll need jQuery and jQuery UI.  Find the CDN version here...
 
+Link: https://code.jquery.com/
+
+Direct Link: https://code.jquery.com/ui/1.11.2/jquery-ui.min.js
 
 Usage
 -----
